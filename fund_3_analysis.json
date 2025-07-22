@@ -1,0 +1,153 @@
+{
+    "fund": "Fund 3",
+    "q2_2025_summary": {
+        "occupancy_status": "Concerning",
+        "revenue_status": "Stable",
+        "risk_level": "Medium-High",
+        "overall_assessment": "Fund 3 shows better resilience than Fund 2 but faces emerging challenges"
+    },
+    "key_metrics": {
+        "occupancy_decline": "-7.9pp over 6 months",
+        "revenue_change": "+0.3% maintained despite vacancy",
+        "walt": "46.2 months",
+        "vacancy_rate": "8.2%",
+        "near_term_expiry": "11.5% of occupied space"
+    },
+    "critical_findings": [
+        {
+            "finding": "Occupancy Deterioration",
+            "detail": "Occupancy fell from 99.7% to 91.8% in 6 months",
+            "impact": "1.0M SF vacant, representing $11.0M potential annual revenue",
+            "urgency": "High"
+        },
+        {
+            "finding": "WALT Erosion",
+            "detail": "WALT declined 3.0 months from 49.2 to 46.2 months",
+            "impact": "Shorter lease terms indicate reduced tenant commitment",
+            "urgency": "Medium"
+        },
+        {
+            "finding": "Superior Fundamentals",
+            "detail": "Higher rent/SF ($8.59 vs $7.09) and better tenant diversity",
+            "impact": "Stronger market position provides negotiating leverage",
+            "urgency": "Low"
+        }
+    ],
+    "recommendations": {
+        "immediate_actions": [
+            {
+                "action": "Proactive Renewal Program",
+                "details": "Target all leases expiring in next 18 months with renewal incentives",
+                "target": "Secure 90% renewal rate on quality tenants",
+                "owner": "Asset Management Team",
+                "timeline": "Begin immediately"
+            },
+            {
+                "action": "Quality Over Quantity Leasing",
+                "details": "Focus on creditworthy tenants with 5+ year lease terms",
+                "target": "Maintain rent premiums while improving occupancy",
+                "owner": "Leasing Team",
+                "timeline": "Ongoing"
+            },
+            {
+                "action": "Vacancy Hot Spot Analysis",
+                "details": "Identify properties with concentrated vacancy for targeted action",
+                "target": "Prioritize leasing efforts at high-impact properties",
+                "owner": "Analytics Team",
+                "timeline": "Complete within 1 week"
+            }
+        ],
+        "30_day_actions": [
+            {
+                "action": "Tenant Satisfaction Survey",
+                "details": "Survey all tenants to identify retention risks and improvement areas",
+                "target": "90% response rate, identify top 3 concerns",
+                "owner": "Property Management",
+                "timeline": "Complete within 30 days"
+            },
+            {
+                "action": "Competitive Positioning Study",
+                "details": "Benchmark properties against local competition",
+                "target": "Maintain rent premium while closing occupancy gap",
+                "owner": "Research Team",
+                "timeline": "Report in 3 weeks"
+            }
+        ],
+        "90_day_actions": [
+            {
+                "action": "Strategic Capital Deployment",
+                "details": "Invest $8-10M in property upgrades focused on tenant retention",
+                "target": "Upgrade 50% of properties with upcoming renewals",
+                "owner": "Capital Projects Team",
+                "timeline": "Plan approval within 60 days"
+            },
+            {
+                "action": "Long-term Lease Incentive Program",
+                "details": "Offer TI allowances for 7+ year lease terms",
+                "target": "Increase WALT to 50+ months",
+                "owner": "Executive Team",
+                "timeline": "Program launch by September 2025"
+            }
+        ]
+    },
+    "competitive_advantages": {
+        "strengths": [
+            "21% higher rent/SF than Fund 2",
+            "Better tenant diversification (386 vs 215 tenants)",
+            "Longer average lease terms",
+            "Lower tenant concentration risk"
+        ],
+        "opportunities": [
+            "Premium positioning allows selective tenant acceptance",
+            "Strong fundamentals support rent growth strategy",
+            "Lower vacancy provides negotiating leverage"
+        ]
+    },
+    "risk_mitigation": {
+        "primary_risks": [
+            "WALT continuing to decline below 45 months",
+            "Occupancy falling below 90%",
+            "Loss of rent premium due to market conditions"
+        ],
+        "mitigation_strategies": [
+            "Implement 'early bird' renewal program 18 months before expiry",
+            "Create tenant loyalty program with rent credits",
+            "Establish maximum vacancy threshold of 10% triggering action plan"
+        ]
+    },
+    "success_metrics": {
+        "30_day_targets": {
+            "renewal_commitments": 20,
+            "new_leases": 15,
+            "occupancy": "92.5%"
+        },
+        "60_day_targets": {
+            "occupancy": "93.5%",
+            "walt": "47+ months",
+            "tenant_satisfaction": "85%+ positive"
+        },
+        "90_day_targets": {
+            "occupancy": "94%+",
+            "walt": "48+ months",
+            "revenue_run_rate": "$102M+",
+            "rent_growth": "3%+ on renewals"
+        }
+    },
+    "strategic_priorities": {
+        "maintain": [
+            "Rent premium positioning",
+            "Tenant quality standards",
+            "Portfolio diversification"
+        ],
+        "improve": [
+            "Occupancy to 95%+ target",
+            "WALT to 50+ months",
+            "Leasing velocity"
+        ],
+        "monitor": [
+            "Market rent trends",
+            "Competitor occupancy rates",
+            "Tenant financial health"
+        ]
+    }
+}

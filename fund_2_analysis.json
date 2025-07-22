@@ -1,0 +1,122 @@
+{
+    "fund": "Fund 2",
+    "q2_2025_summary": {
+        "occupancy_status": "Critical",
+        "revenue_status": "Stable",
+        "risk_level": "High",
+        "overall_assessment": "Fund 2 faces significant occupancy challenges requiring immediate intervention"
+    },
+    "key_metrics": {
+        "occupancy_decline": "-10.7pp over 6 months",
+        "revenue_change": "+0.1% despite occupancy loss",
+        "walt": "40.6 months",
+        "vacancy_rate": "12.0%",
+        "near_term_expiry": "17.5% of occupied space"
+    },
+    "critical_findings": [
+        {
+            "finding": "Occupancy Crisis",
+            "detail": "Occupancy plummeted from 98.7% to 88.0% in 6 months",
+            "impact": "1.2M SF vacant, representing $9.7M potential annual revenue",
+            "urgency": "Immediate"
+        },
+        {
+            "finding": "Leasing Velocity Collapse",
+            "detail": "Only 3 new leases signed in Q2 2025 vs 19 in Q1",
+            "impact": "Net loss of 49 tenants over 6 months",
+            "urgency": "High"
+        },
+        {
+            "finding": "Revenue Resilience",
+            "detail": "16.2% rent growth offset occupancy losses",
+            "impact": "Revenue stable at $63.6M despite vacancy",
+            "urgency": "Medium"
+        }
+    ],
+    "recommendations": {
+        "immediate_actions": [
+            {
+                "action": "Launch Emergency Leasing Campaign",
+                "details": "Deploy dedicated leasing team with authority to offer 2-3 months free rent",
+                "target": "Sign 20 new leases within 60 days",
+                "owner": "VP of Leasing",
+                "timeline": "Start within 5 days"
+            },
+            {
+                "action": "Tenant Retention Blitz",
+                "details": "Contact all tenants with <18 months remaining for early renewals",
+                "target": "Achieve 85% renewal rate on 2025-2026 expirations",
+                "owner": "Property Management Team",
+                "timeline": "Complete outreach within 2 weeks"
+            },
+            {
+                "action": "Competitive Analysis",
+                "details": "Commission immediate market study to understand occupancy decline",
+                "target": "Identify top 3 reasons for tenant departures",
+                "owner": "Research Team",
+                "timeline": "Report due in 10 days"
+            }
+        ],
+        "30_day_actions": [
+            {
+                "action": "Property Improvement Program",
+                "details": "Allocate $5M for immediate upgrades to common areas and amenities",
+                "target": "Complete improvements at top 10 vacant properties",
+                "owner": "Capital Projects Team",
+                "timeline": "Complete within 45 days"
+            },
+            {
+                "action": "Flexible Lease Terms",
+                "details": "Offer 3-5 year terms with favorable renewal options",
+                "target": "Increase WALT to 45+ months",
+                "owner": "Leasing Team",
+                "timeline": "Implement immediately"
+            }
+        ],
+        "90_day_actions": [
+            {
+                "action": "Portfolio Repositioning",
+                "details": "Evaluate bottom 20% performing properties for sale",
+                "target": "Improve overall portfolio metrics",
+                "owner": "Investment Committee",
+                "timeline": "Decision by end of Q3 2025"
+            },
+            {
+                "action": "Marketing Campaign",
+                "details": "Launch digital marketing campaign highlighting property upgrades",
+                "target": "Generate 100+ qualified leads per month",
+                "owner": "Marketing Team",
+                "timeline": "Launch by August 2025"
+            }
+        ]
+    },
+    "risk_mitigation": {
+        "primary_risks": [
+            "Continued occupancy decline below 85%",
+            "Revenue deterioration if rent growth stalls",
+            "Large tenant departures in near-term expiries"
+        ],
+        "mitigation_strategies": [
+            "Pre-negotiate renewals 12 months in advance",
+            "Establish tenant advisory board for feedback",
+            "Create retention incentive program for multi-year renewals"
+        ]
+    },
+    "success_metrics": {
+        "30_day_targets": {
+            "new_leases": 10,
+            "renewal_commitments": 15,
+            "tour_activity": "50+ per week"
+        },
+        "60_day_targets": {
+            "occupancy": "90%+",
+            "new_leases": 25,
+            "net_absorption": "+200K SF"
+        },
+        "90_day_targets": {
+            "occupancy": "92%+",
+            "walt": "42+ months",
+            "revenue_run_rate": "$65M+"
+        }
+    }
+}
