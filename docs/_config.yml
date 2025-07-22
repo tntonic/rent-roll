@@ -1,0 +1,29 @@
+# GitHub Pages configuration for Rent Roll Dashboard
+title: "Rent Roll BI Dashboard"
+description: "Q2 2025 Performance Analysis - Interactive Business Intelligence Dashboard"
+url: "https://tntonic.github.io"
+baseurl: "/rent-roll"
+
+# Build settings
+markdown: kramdown
+highlighter: rouge
+
+# Exclude files from Jekyll processing
+exclude:
+  - README.md
+  - data/
+
+# Include files that would otherwise be excluded
+include:
+  - data/dashboard_data.json
+
+# GitHub Pages settings
+plugins:
+  - jekyll-remote-theme
+  
+# SEO and metadata
+author:
+  name: "Real Estate Analytics Team"
+  
+social:
+  type: "Organization"

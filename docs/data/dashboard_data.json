@@ -1,0 +1,365 @@
+{
+  "fund2": {
+    "metrics": {
+      "Q4_2024": {
+        "period": "Q4 2024",
+        "properties": 167,
+        "total_leases": 294,
+        "occupied_leases": 285,
+        "vacant_leases": 9,
+        "total_sf": 10564951.0,
+        "occupied_sf": 10425204.0,
+        "vacant_sf": 139747.0,
+        "occupancy_rate": 98.67725841795196,
+        "annual_revenue": 63592691.34,
+        "monthly_revenue": 5299390.950000001,
+        "avg_rent_psf": 6.099898989026977,
+        "walt": 39.847579286676456,
+        "near_term_expiry_sf": 2238070.0,
+        "near_term_expiry_pct": 21.4678772712745
+      },
+      "Q1_2025": {
+        "period": "Q1 2025",
+        "properties": 167,
+        "total_leases": 275,
+        "occupied_leases": 246,
+        "vacant_leases": 29,
+        "total_sf": 10252968.0,
+        "occupied_sf": 9293303.0,
+        "vacant_sf": 959665.0,
+        "occupancy_rate": 90.64012488871515,
+        "annual_revenue": 65090630.160000004,
+        "monthly_revenue": 5424219.18,
+        "avg_rent_psf": 7.004036149472368,
+        "walt": 42.10551382327196,
+        "near_term_expiry_sf": 1296675.0,
+        "near_term_expiry_pct": 13.952789444183624
+      },
+      "Q2_2025": {
+        "period": "Q2 2025",
+        "properties": 167,
+        "total_leases": 272,
+        "occupied_leases": 236,
+        "vacant_leases": 36,
+        "total_sf": 10195969.0,
+        "occupied_sf": 8971924.0,
+        "vacant_sf": 1224045.0,
+        "occupancy_rate": 87.99481442126785,
+        "annual_revenue": 63626851.44,
+        "monthly_revenue": 5302237.619999999,
+        "avg_rent_psf": 7.091773340924421,
+        "walt": 40.55316915409939,
+        "near_term_expiry_sf": 1570110.0,
+        "near_term_expiry_pct": 17.500259699034455
+      },
+      "q2_summary": {
+        "occupancy_change": -2.6453104674473025,
+        "revenue_change": -2.248831692675083,
+        "walt_change": -1.5523446691725695,
+        "new_leases": 3,
+        "lost_leases": 13,
+        "net_absorption": -321379.0
+      },
+      "top_properties": [
+        {
+          "property": "19-05 Nevins Road",
+          "prop_code": "xnj19nev",
+          "total_sf": 151799.0,
+          "annual_rent": 2314934.76,
+          "has_vacancy": false
+        },
+        {
+          "property": "18 Railroad Street",
+          "prop_code": "xpa18rai",
+          "total_sf": 290441.0,
+          "annual_rent": 2167450.08,
+          "has_vacancy": false
+        },
+        {
+          "property": "1600 Hunter Rd",
+          "prop_code": "xil1600",
+          "total_sf": 238423.0,
+          "annual_rent": 1671345.24,
+          "has_vacancy": false
+        },
+        {
+          "property": "17-01 Pollitt Drive",
+          "prop_code": "xnj17pol",
+          "total_sf": 105350.0,
+          "annual_rent": 1442302.32,
+          "has_vacancy": false
+        },
+        {
+          "property": "5 Thornton Road",
+          "prop_code": "xnj5thor",
+          "total_sf": 150801.0,
+          "annual_rent": 1331648.76,
+          "has_vacancy": false
+        },
+        {
+          "property": "4201 N Beach Street",
+          "prop_code": "xtx4201n",
+          "total_sf": 182500.0,
+          "annual_rent": 1300065.48,
+          "has_vacancy": false
+        },
+        {
+          "property": "12080 Mosteller Road",
+          "prop_code": "xohmost",
+          "total_sf": 272221.0,
+          "annual_rent": 1170623.88,
+          "has_vacancy": false
+        },
+        {
+          "property": "I-45 Logistics Center",
+          "prop_code": "xtx1709s",
+          "total_sf": 245299.0,
+          "annual_rent": 1092999.96,
+          "has_vacancy": false
+        },
+        {
+          "property": "40 Potash Road",
+          "prop_code": "xnj40pot",
+          "total_sf": 60994.0,
+          "annual_rent": 1067394.96,
+          "has_vacancy": false
+        },
+        {
+          "property": "125 Algonquin Parkway",
+          "prop_code": "xnj125al",
+          "total_sf": 71000.0,
+          "annual_rent": 1016000.04,
+          "has_vacancy": false
+        }
+      ],
+      "expiry_analysis": {
+        "0-6 months": {
+          "count": 22,
+          "sf": 527289.0,
+          "annual_rent": 3392865.8999999994
+        },
+        "6-12 months": {
+          "count": 34,
+          "sf": 971941.0,
+          "annual_rent": 5966750.04
+        },
+        "12-24 months": {
+          "count": 43,
+          "sf": 1880082.0,
+          "annual_rent": 12853202.64
+        },
+        "24-36 months": {
+          "count": 40,
+          "sf": 1233416.0,
+          "annual_rent": 9002250.96
+        },
+        "36+ months": {
+          "count": 95,
+          "sf": 4288316.0,
+          "annual_rent": 31857649.98
+        }
+      },
+      "risk_metrics": {
+        "overall_risk_score": 50,
+        "risk_level": "Medium",
+        "top_5_concentration": 12.520600877936513,
+        "top_10_concentration": 21.271595707926803,
+        "unique_tenants": 215
+      }
+    },
+    "insights": [
+      {
+        "type": "warning",
+        "category": "Occupancy",
+        "message": "Occupancy declined 2.6pp in Q2 2025",
+        "recommendation": "Implement aggressive leasing campaign with concessions"
+      }
+    ]
+  },
+  "fund3": {
+    "metrics": {
+      "Q4_2024": {
+        "period": "Q4 2024",
+        "properties": 167,
+        "total_leases": 432,
+        "occupied_leases": 428,
+        "vacant_leases": 4,
+        "total_sf": 12394976.0,
+        "occupied_sf": 12362056.0,
+        "vacant_sf": 32920.0,
+        "occupancy_rate": 99.73440852164619,
+        "annual_revenue": 98875287.0,
+        "monthly_revenue": 8239607.25,
+        "avg_rent_psf": 7.998288229724894,
+        "walt": 49.20830797643272,
+        "near_term_expiry_sf": 1346540.0,
+        "near_term_expiry_pct": 10.892524673889199
+      },
+      "Q1_2025": {
+        "period": "Q1 2025",
+        "properties": 168,
+        "total_leases": 427,
+        "occupied_leases": 406,
+        "vacant_leases": 21,
+        "total_sf": 12455662.0,
+        "occupied_sf": 11745377.0,
+        "vacant_sf": 710285.0,
+        "occupancy_rate": 94.297492979498,
+        "annual_revenue": 98797763.55000001,
+        "monthly_revenue": 8233146.959999999,
+        "avg_rent_psf": 8.411629831039056,
+        "walt": 48.30215130913156,
+        "near_term_expiry_sf": 1069573.0,
+        "near_term_expiry_pct": 9.106331793351547
+      },
+      "Q2_2025": {
+        "period": "Q2 2025",
+        "properties": 170,
+        "total_leases": 430,
+        "occupied_leases": 399,
+        "vacant_leases": 31,
+        "total_sf": 12572726.0,
+        "occupied_sf": 11546054.0,
+        "vacant_sf": 1026672.0,
+        "occupancy_rate": 91.83413366361441,
+        "annual_revenue": 99129302.31,
+        "monthly_revenue": 8260775.1899999995,
+        "avg_rent_psf": 8.585556789358511,
+        "walt": 46.18184489127601,
+        "near_term_expiry_sf": 1324191.0,
+        "near_term_expiry_pct": 11.468775392874484
+      },
+      "q2_summary": {
+        "occupancy_change": -2.4633593158835936,
+        "revenue_change": 0.3355731426371852,
+        "walt_change": -2.120306417855552,
+        "new_leases": 47,
+        "lost_leases": 54,
+        "net_absorption": -199323.0
+      },
+      "top_properties": [
+        {
+          "property": "1930 S. Rochester Avenue",
+          "prop_code": "3ca00005",
+          "total_sf": 144606.0,
+          "annual_rent": 2698275.96,
+          "has_vacancy": false
+        },
+        {
+          "property": "70-82 McKee Drive",
+          "prop_code": "3nj00019",
+          "total_sf": 170000.0,
+          "annual_rent": 1899614.6400000001,
+          "has_vacancy": false
+        },
+        {
+          "property": "3140 Route 22",
+          "prop_code": "3nj00006",
+          "total_sf": 151000.0,
+          "annual_rent": 1748142.72,
+          "has_vacancy": false
+        },
+        {
+          "property": "1111 Northpoint Drive",
+          "prop_code": "3tx00005",
+          "total_sf": 126596.0,
+          "annual_rent": 1683726.84,
+          "has_vacancy": false
+        },
+        {
+          "property": "260-280 Hansen Access Road",
+          "prop_code": "3pa00006",
+          "total_sf": 130870.0,
+          "annual_rent": 1524506.76,
+          "has_vacancy": false
+        },
+        {
+          "property": "6 Pearl Court",
+          "prop_code": "3nj00014",
+          "total_sf": 100363.0,
+          "annual_rent": 1511765.1600000001,
+          "has_vacancy": false
+        },
+        {
+          "property": "2101 Westinghouse Boulevard",
+          "prop_code": "3nc00004",
+          "total_sf": 200000.0,
+          "annual_rent": 1448428.8,
+          "has_vacancy": false
+        },
+        {
+          "property": "180 Motor Parkway",
+          "prop_code": "3ny00003",
+          "total_sf": 89631.0,
+          "annual_rent": 1434096.0,
+          "has_vacancy": false
+        },
+        {
+          "property": "91 McKee Drive",
+          "prop_code": "3nj00018",
+          "total_sf": 121896.0,
+          "annual_rent": 1431443.1600000001,
+          "has_vacancy": false
+        },
+        {
+          "property": "6200-6320 North Hiatus Road",
+          "prop_code": "3fl00030",
+          "total_sf": 111936.0,
+          "annual_rent": 1408347.6,
+          "has_vacancy": false
+        }
+      ],
+      "expiry_analysis": {
+        "0-6 months": {
+          "count": 21,
+          "sf": 332114.0,
+          "annual_rent": 3660010.0799999996
+        },
+        "6-12 months": {
+          "count": 55,
+          "sf": 918987.0,
+          "annual_rent": 7916650.68
+        },
+        "12-24 months": {
+          "count": 74,
+          "sf": 1628480.0,
+          "annual_rent": 14346749.26
+        },
+        "24-36 months": {
+          "count": 91,
+          "sf": 2833818.0,
+          "annual_rent": 22409552.999999996
+        },
+        "36+ months": {
+          "count": 155,
+          "sf": 5759565.0,
+          "annual_rent": 50198771.69
+        }
+      },
+      "risk_metrics": {
+        "overall_risk_score": 25,
+        "risk_level": "Low",
+        "top_5_concentration": 8.791061892827317,
+        "top_10_concentration": 14.904155981847945,
+        "unique_tenants": 386
+      }
+    },
+    "insights": [
+      {
+        "type": "warning",
+        "category": "Occupancy",
+        "message": "Occupancy declined 2.5pp in Q2 2025",
+        "recommendation": "Implement aggressive leasing campaign with concessions"
+      }
+    ]
+  },
+  "metadata": {
+    "generated_date": "2025-07-22 19:00:19",
+    "data_period": "Q2 2025",
+    "source_files": [
+      "Faropoint Rent Roll All Funds (24DEC).xlsx",
+      "Faropoint Rent Roll All Funds (25MAR).xlsx",
+      "Faropoint Rent Roll All Funds (25JUN).xlsx"
+    ]
+  }
+}
